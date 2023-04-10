@@ -4,7 +4,7 @@ public class Main {
         int contador = 0;
         while(contador<=10){
             System.out.println(contador);
-            contador++;
+            contador++;//adiciona um
         }
     }
 }
